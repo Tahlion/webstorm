@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Tahlion default" parent="$default">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
