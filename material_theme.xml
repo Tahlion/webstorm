@@ -1,12 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.3.4" />
+    <option name="version" value="1.3.7" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="8" />
     <option name="accentColor" value="80cbc4" />
-    <option name="wallpaper" value="C:\Users\rothea\Pictures\Wallpaper\wallhaven-314963.jpg" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="defaultBackground" value="C:\Users\rothea\Pictures\Wallpaper\wallhaven-314963.jpg" />
   </component>
