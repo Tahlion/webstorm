@@ -4,7 +4,7 @@
       <option name="arguments" value="$FileName$ $FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Solutions/#MODULES#/vx-core-elements-demo/node-sass.cmd" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Solutions/vx-energy/packages/vxNode.js/node.exe" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="C:/Solutions/vx-energy/Frontend/" />
