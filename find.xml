@@ -30,12 +30,12 @@
       <mask>*.html, *.ts</mask>
       <mask>*.ts, *.html</mask>
       <mask>*.scss, *.ts, *.html</mask>
-      <mask>*.scss, *.html, *.ts</mask>
       <mask>*.js</mask>
       <mask>*.js, *.scss</mask>
       <mask>*.ts</mask>
       <mask>*.ts, *.scss, *.html</mask>
       <mask>*.html</mask>
+      <mask>*.scss, *.html, *.ts</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
