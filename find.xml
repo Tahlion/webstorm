@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html, *.ts" />
+    <option name="FILE_MASK" value="*.html, *.ts, *.scss" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*sc</mask>
@@ -19,7 +19,6 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*js</mask>
-      <mask>*.html, *.ts, *.scss</mask>
       <mask>*.ts, *.html, *.scss</mask>
       <mask>*.html, *.scss, *.ts</mask>
       <mask>*.ts, *.html</mask>
@@ -37,6 +36,7 @@
       <mask>*.scss, *.html, *.ts</mask>
       <mask>*.html</mask>
       <mask>*.html, *.ts</mask>
+      <mask>*.html, *.ts, *.scss</mask>
     </recentFileMasks>
   </component>
 </application>
