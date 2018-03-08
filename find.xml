@@ -1,18 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss, *.html, *.ts" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.html, *.ts, *.scss, *.hbs" />
     <recentFileMasks>
-      <mask>*.*</mask>
-      <mask>*.ht</mask>
       <mask>*sc</mask>
       <mask>*s</mask>
-      <mask>*.scss,</mask>
-      <mask>*.scss,</mask>
       <mask>*.scss, *</mask>
       <mask>*.scss, *.</mask>
       <mask>*.scss, *.h</mask>
@@ -22,21 +20,25 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*js</mask>
-      <mask>*.html, *.ts, *.scss</mask>
       <mask>*.ts, *.html, *.scss</mask>
       <mask>*.html, *.scss, *.ts</mask>
-      <mask>*.scss, *.html</mask>
-      <mask>*.html, *.ts</mask>
       <mask>*.ts, *.html</mask>
       <mask>*.scss, *.ts, *.html</mask>
-      <mask>*.js</mask>
       <mask>*.js, *.scss</mask>
       <mask>*.ts, *.scss, *.html</mask>
-      <mask>*.scss</mask>
-      <mask>*.html</mask>
       <mask>*.ts</mask>
       <mask>*.hbs</mask>
+      <mask>*.scss,</mask>
+      <mask>*.scss,</mask>
+      <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>*.scss, *.html</mask>
       <mask>*.scss, *.html, *.ts</mask>
+      <mask>*.html</mask>
+      <mask>*.html, *.ts</mask>
+      <mask>*.html, *.ts, *.scss</mask>
+      <mask>*.scss</mask>
+      <mask>*.html, *.ts, *.scss, *.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
