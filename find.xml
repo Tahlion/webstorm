@@ -5,38 +5,16 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html, *.ts" />
-    <recentFileMasks>
-      <mask>*sc</mask>
-      <mask>*s</mask>
-      <mask>*.scss, *</mask>
-      <mask>*.scss, *.</mask>
-      <mask>*.scss, *.h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*js</mask>
-      <mask>*.ts, *.html, *.scss</mask>
-      <mask>*.html, *.scss, *.ts</mask>
-      <mask>*.ts, *.html</mask>
-      <mask>*.scss, *.ts, *.html</mask>
-      <mask>*.js, *.scss</mask>
-      <mask>*.ts, *.scss, *.html</mask>
-      <mask>*.ts</mask>
-      <mask>*.hbs</mask>
-      <mask>*.scss,</mask>
-      <mask>*.scss,</mask>
-      <mask>*.css</mask>
-      <mask>*.js</mask>
-      <mask>*.scss, *.html</mask>
-      <mask>*.scss, *.html, *.ts</mask>
-      <mask>*.html</mask>
-      <mask>*.html, *.ts, *.scss</mask>
-      <mask>*.html, *.ts, *.scss, *.hbs</mask>
-      <mask>*.scss</mask>
-      <mask>*.html, *.ts</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.scss" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
