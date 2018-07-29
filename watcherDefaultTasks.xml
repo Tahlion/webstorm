@@ -8,12 +8,12 @@
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
-      <option name="output" value="" />
+      <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="node-sass.cmd" />
+      <option name="program" value="$USER_HOME$/WebstormProjects/resultlist-structure/node-sass.cmd" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
