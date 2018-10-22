@@ -16,7 +16,6 @@
     <mask>*.html, *.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html,</mask>
-    <mask>*.js</mask>
     <mask>*.html, *.ts</mask>
     <mask>*.html, *.ts, *.scss</mask>
     <mask>*.html</mask>
@@ -24,5 +23,6 @@
     <mask>*.html, *.scss, *.ts</mask>
     <mask>*.scss,</mask>
     <mask>*.scss, *.html, *.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
