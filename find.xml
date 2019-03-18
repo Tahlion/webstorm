@@ -17,7 +17,6 @@
     <mask>*.mxml</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.html, *.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.html,</mask>
     <mask>*.html, *.ts</mask>
     <mask>*.html, *.ts, *.scss</mask>
@@ -27,6 +26,7 @@
     <mask>*.js</mask>
     <mask>*.scss, *.html, *.ts</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.ts</mask>
     <mask>*.html, *.scss, *.ts</mask>
   </component>
 </application>
