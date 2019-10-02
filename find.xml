@@ -30,6 +30,7 @@
     <mask>*.ts, *.scss</mask>
     <mask>*.ts,</mask>
     <mask>*.scss</mask>
+    <mask>*.scss, *.html</mask>
     <mask>*.ts, *.scss, *.html</mask>
   </component>
 </application>
