@@ -31,8 +31,8 @@
     <mask>*.spec.ts</mask>
     <mask>*.scss</mask>
     <mask>*.scss, *.html</mask>
-    <mask>*.ts, !*.spec.ts</mask>
     <mask>*.ts, *.scss, *.html</mask>
+    <mask>*.ts, !*.spec.ts</mask>
     <mask>*.ts, *.scss, *.html, !*.spec.ts</mask>
   </component>
 </application>
