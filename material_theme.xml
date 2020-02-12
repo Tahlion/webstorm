@@ -4,13 +4,13 @@
     <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="fd8a02" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-6373b69a:164e54a3e8a:-7fff" />
-    <option name="version" value="4.2.2" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
