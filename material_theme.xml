@@ -3,6 +3,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -14,6 +15,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-6373b69a:164e54a3e8a:-7fff" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0.3" />
   </component>
 </application>
