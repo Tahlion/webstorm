@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts, *.scss, *.html, !*.spec.ts" />
     <mask>*.js, *.ts</mask>
     <mask>*.html, *.scss</mask>
     <mask>*.html,</mask>
@@ -23,7 +23,6 @@
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.ts, *.scss, *.html, !*.spec.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -31,10 +30,11 @@
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
+    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
+    <mask>*.ts, *.scss, *.html, !*.spec.ts</mask>
   </component>
 </application>
