@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.ts, *.scss, *.html, !*.spec.ts" />
     <mask>*.js, *.ts</mask>
     <mask>*.html, *.scss</mask>
     <mask>*.html,</mask>
@@ -36,7 +34,7 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.ts, *.scss, *.html, !*.spec.ts</mask>
     <mask>*.js</mask>
+    <mask>*.ts, *.scss, *.html, !*.spec.ts</mask>
   </component>
 </application>
